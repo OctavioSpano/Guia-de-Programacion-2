@@ -14,7 +14,7 @@ public class Ejercicio1 : MonoBehaviour
     {
         if (EdadUsuario >= 18)
         {
-            miTexto.text = "Es mayor de edad"
+            miTexto.text = "Es mayor de edad";
             Debug.Log("Es mayor de edad");
         }
         else

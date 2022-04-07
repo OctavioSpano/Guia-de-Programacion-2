@@ -19,6 +19,7 @@ public class Ejercicio1 : MonoBehaviour
         }
         else
         {
+            miTexto.text = "No es mayor de edad";
             Debug.Log("No es mayor de edad");
         }
     }
